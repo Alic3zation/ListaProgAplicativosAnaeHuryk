@@ -1,0 +1,5 @@
+Lista de exercicios para as pastas:
+
+1_ Escrever um programa que receba 2 números e exiba o resultado da sua soma;
+2_ Escrever um programa que receba 2 numeros e ao final mostre a soma, subtração, multiplicação e a divisão dos numeros lidos;
+3_ Escrever um programa para delimitar o consumo médio de um automovel sendo fornecida a distância total percorrida pelo automovel e o total de combustivel gasto.
