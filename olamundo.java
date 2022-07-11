@@ -1,6 +1,6 @@
 public class olamundo{
     public static void  main(String[] orgs)
      {
-        Systen.out.println("Olá Mundo!");
+        System.out.println("Olá Mundo!");
     }
 }
